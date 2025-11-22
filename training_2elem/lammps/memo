@@ -1,0 +1,3 @@
+"system_charge 300.0" should be added into lammps.nnp manually.
+
+(charge 3 * coef. 100 = 300.0)
